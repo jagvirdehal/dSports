@@ -1,0 +1,22 @@
+{
+  "name": "dsports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagvirdehal/dSports.git"
+  },
+  "author": "Jagvir Dehal and Paramvir Sran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagvirdehal/dSports/issues"
+  },
+  "homepage": "https://github.com/jagvirdehal/dSports#readme",
+  "dependencies": {
+    "web3": "^1.2.2"
+  }
+}
