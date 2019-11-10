@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/jagvirdehal/dSports#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
     "web3": "^1.2.2"
   }
 }
